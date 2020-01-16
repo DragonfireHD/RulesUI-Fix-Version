@@ -6,6 +6,6 @@ projects:
     path: ""
     icon: ""
     libs:
-      - src: jojoe77777/FormAPI/libFormAPI
+      - DG-RulesUI-5.phar
         version: 1.3.0
 ...
